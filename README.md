@@ -42,6 +42,7 @@ myntra-clone/
 > Add screenshots here (optional but recommended for GitHub)
 
 ---
+cd myntra-clone
 
 ## ⚙️ How to Run the Project
 
