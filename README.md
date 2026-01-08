@@ -27,4 +27,9 @@ This project focuses on clean UI, responsive layout, and dynamic content renderi
 ---
 
 ## 📁 Project Structure
-
+myntra-clone/
+│── index.html
+│── style.css
+│── script.js
+│── myntra_logo.webp
+│── banner.jpg
