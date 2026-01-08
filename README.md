@@ -39,7 +39,7 @@ myntra-clone/
 
 ## 📸 Screenshots
 
-> Add screenshots here (optional but recommended for GitHub)
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/4e708099-b2b0-4786-95bd-c8f7f942dcf2" />
 
 ---
 cd myntra-clone
