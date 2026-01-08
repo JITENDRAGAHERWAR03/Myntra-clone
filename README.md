@@ -33,3 +33,18 @@ myntra-clone/
 │── script.js
 │── myntra_logo.webp
 │── banner.jpg
+
+
+---
+
+## 📸 Screenshots
+
+> Add screenshots here (optional but recommended for GitHub)
+
+---
+
+## ⚙️ How to Run the Project
+
+1. Clone the repository  
+```bash
+git clone https://github.com/your-username/myntra-clone.git
